@@ -54,7 +54,7 @@ class ViewController: UIViewController, MKMapViewDelegate{
                 }
             
         }
-        //If Userdefaults is empty then diplays Irving location mall
+        //If Userdefaults is empty then diplays Irving mall location 
         else
         {
                 let latitude : CLLocationDegrees = 32.840744
